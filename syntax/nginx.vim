@@ -611,6 +611,7 @@ syn keyword ngxDirectiveThirdParty upload_pass_form_field
 syn keyword ngxDirectiveThirdParty upload_set_form_field
 syn keyword ngxDirectiveThirdParty upload_store
 syn keyword ngxDirectiveThirdParty upload_store_access
+syn keyword ngxDirectiveThirdParty upload_tame_arrays
 
 " Upload Progress Module <http://wiki.nginx.org/NginxHttpUploadProgressModule>
 " Tracks and reports upload progress.
